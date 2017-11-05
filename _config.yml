@@ -1,5 +1,5 @@
 # Site settings
-#title: BY Blog
+title: BY Blog
 email: k_wang12@163.com
 description: "Thinking will not overcome fear but action will."
 keyword: "Karol, Karol Wang, Economics, Finance, Reading, Daily Life"
@@ -9,7 +9,7 @@ github_repo: "https://github.com/tinyflow/tinyflow.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "要勤于记诵"
+#sidebar-about-description: "要勤于记诵"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
